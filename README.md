@@ -1,38 +1,65 @@
-# Uday Kumar Juvva
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Uday+Kumar+Juvva;Computer+Science+Engineer;Software+Developer;Open+to+Internships&center=true&width=520&height=45&color=0A66C2&vCenter=true&size=22">
+</p>
 
-Computer Science and Engineering Student  
-Focused on software development, problem solving, and building practical applications.
+<h3 align="center">Computer Science and Engineering Student</h3>
 
 ---
 
 ## About Me
-I am a Computer Science and Engineering student with a strong interest in programming and software development. I enjoy building projects that solve real-world problems and continuously work on improving my technical skills.
+I am a Computer Science and Engineering student focused on software development and problem solving. I enjoy building real-world applications and continuously improving my technical skills.
 
 ---
 
-## Skills
-- **Languages:** C, Java, Python, JavaScript  
-- **Web:** HTML, CSS, Node.js  
-- **Database:** MySQL  
-- **Tools:** GitHub, Power BI, Canva, GIMP, Lightroom  
+## Tech Stack
+<p align="center">
+
+<!-- Programming -->
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,mysql,github" />
+
+<br><br>
+
+<!-- Tools -->
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
+<img height="50" src="https://img.icons8.com/color/48/power-bi.png"/>
+<img height="50" src="https://img.icons8.com/color/48/adobe-premiere-pro.png"/>
+<img height="50" src="https://img.icons8.com/color/48/capcut.png"/>
+
+</p>
 
 ---
 
 ## Projects
-- Diet Recommendation System  
-- Digital Reading Hub  
-*(Add GitHub links here if available)*
+- **Diet Recommendation System** – Personalized diet planning system  
+- **Digital Reading Hub** – Platform for digital learning resources  
 
 ---
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=udaykumar-juvva&show_icons=true&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=udaykumar-juvva&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udaykumar-juvva&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykumar-juvva&layout=compact&hide_border=true" />
+</p>
 
 ---
 
-## Contact
-- Email: uday36863@gmail.com  
-- Instagram: https://instagram.com/udayyy_2007  
+## Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaykumar-juvva&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## Connect With Me
+<p align="center">
+  <a href="mailto:uday36863@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
+  </a>
+  <a href="https://instagram.com/udayyy_2007">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
+  </a>
+</p>
 
 ---
