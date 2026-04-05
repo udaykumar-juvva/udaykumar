@@ -1,6 +1,6 @@
-<!-- Animated Header -->
+<!-- Animated Name - Scrolls Once Slowly -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Uday+Kumar+Juvva;Computer+Science+Engineer;Software+Developer;Open+to+Internships&center=true&width=520&height=45&color=0A66C2&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Juvva+Uday+Kumar&center=true&width=800&height=80&size=48&color=00A8FF&vCenter=true&duration=8000&font=Fira+Code&repeat=false">
 </p>
 
 <h3 align="center">Computer Science and Engineering Student</h3>
@@ -8,37 +8,28 @@
 ---
 
 ## About Me
-I am a Computer Science and Engineering student focused on software development and problem solving. I enjoy building real-world applications and continuously improving my technical skills.
+I am a Computer Science and Engineering student passionate about software development, web technologies, and creative tools. I enjoy building practical applications and improving my technical skills continuously.
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 <p align="center">
-
-<!-- Programming -->
-<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,mysql,github" />
-
-<br><br>
-
-<!-- Tools -->
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"/>
-<img height="50" src="https://img.icons8.com/color/48/power-bi.png"/>
-<img height="50" src="https://img.icons8.com/color/48/adobe-premiere-pro.png"/>
-<img height="50" src="https://img.icons8.com/color/48/capcut.png"/>
-
+  <!-- Programming Languages -->
+  <img height="50" src="https://skillicons.dev/icons?i=c,java,python,js,html,css,mysql,github" style="margin:5px"/>
+  <!-- Creative Tools -->
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" style="margin:5px"/>
+  <img height="50" src="https://img.icons8.com/color/48/adobe-premiere-pro.png" style="margin:5px"/>
+  <img height="50" src="https://img.icons8.com/color/48/capcut.png" style="margin:5px"/>
+  <img height="50" src="https://img.icons8.com/color/48/power-bi.png" style="margin:5px"/>
 </p>
 
 ---
 
-## Projects
-- **Diet Recommendation System** – Personalized diet planning system  
-- **Digital Reading Hub** – Platform for digital learning resources  
-
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaykumar-juvva&show_icons=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=udaykumar-juvva&show_icons=true&hide_border=true&title_color=00A8FF&icon_color=00A8FF" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykumar-juvva&layout=compact&hide_border=true" />
 </p>
@@ -47,12 +38,12 @@ I am a Computer Science and Engineering student focused on software development 
 
 ## Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaykumar-juvva&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaykumar-juvva&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 <p align="center">
   <a href="mailto:uday36863@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
@@ -61,5 +52,3 @@ I am a Computer Science and Engineering student focused on software development 
     <img src="https://img.icons8.com/fluency/48/instagram-new.png"/>
   </a>
 </p>
-
----
