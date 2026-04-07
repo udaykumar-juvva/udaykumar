@@ -19,7 +19,6 @@ I am a Computer Science and Engineering student passionate about software develo
   <!-- Creative Tools -->
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" style="margin:5px"/>
   <img height="50" src="https://img.icons8.com/color/48/adobe-premiere-pro.png" style="margin:5px"/>
-  <img height="50" src="https://img.icons8.com/color/48/capcut.png" style="margin:5px"/>
   <img height="50" src="https://img.icons8.com/color/48/power-bi.png" style="margin:5px"/>
 </p>
 
