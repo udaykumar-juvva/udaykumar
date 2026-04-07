@@ -25,16 +25,6 @@ I am a Computer Science and Engineering student passionate about software develo
 ---
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaykumar-juvva&show_icons=true&hide_border=true&title_color=00A8FF&icon_color=00A8FF" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykumar-juvva&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaykumar-juvva&theme=react-dark&hide_border=true&area=true" />
